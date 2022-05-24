@@ -1,3 +1,3 @@
 # HTML-and-CSS-Responsive-Website
 
-This is a simple Responsive Website Design Using HTML CSS & JavaScript
+This is a simple single page Responsive Website Design Using HTML CSS & JavaScript
